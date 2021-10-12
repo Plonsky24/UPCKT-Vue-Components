@@ -1,2 +1,24 @@
-# UPCKT-Vue-Components
-Testing Ground and Repository for Vue Components to be used in UP CKT Websites
+# upckt-vue-components
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

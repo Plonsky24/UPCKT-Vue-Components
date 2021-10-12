@@ -1,4 +1,5 @@
-# upckt-vue-components
+# UPCK-Vue-Components
+Repository for UP CKT Web Development Vue Assets
 
 ## Project setup
 ```
